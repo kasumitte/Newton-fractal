@@ -1,6 +1,6 @@
 # Implementation of Newton's fractals
 If you don't know what it is, I recommend you to check out [wikipedia article](https://en.wikipedia.org/wiki/Newton_fractal) about it.
-Mappings: q - to quit (red cross or escape also work), mouse wheel + "+" - to zoom in, mouse wheel + "-" - to zoom out (you can use "+" and "-" on numpad instead). 
+Mappings: q - to quit (red cross or escape also work), mouse wheel - to zoom in and zoom out (you can use "+" and "-" on numpad instead). 
 
 ## How to compile
 ```bash
